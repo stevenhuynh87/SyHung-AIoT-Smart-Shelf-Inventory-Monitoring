@@ -1,4 +1,4 @@
-# Senior Thesis (Khóa Luận Tốt Nghiệp)
+# Senior Thesis 
 
 Thư mục lưu trữ các tài liệu phục vụ báo cáo khóa luận:
 - `manuscript/`: Báo cáo khóa luận (LaTeX / Markdown / DOCX theo định dạng quy định của nhà trường).
